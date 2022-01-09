@@ -1,1 +1,4 @@
 
+[submodule "bensBlog/themes/bilberry-hugo-theme"]
+	path = bensBlog/themes/bilberry-hugo-theme
+	url = https://github.com/Lednerb/bilberry-hugo-theme
