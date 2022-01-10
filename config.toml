@@ -143,13 +143,14 @@ disqusShortname = ""
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
+      { link = "https://benjimanclarke.ie", icon = "fas fa-globe" }
       { link = "https://instagran.com/benjimanclarke96", icon = "fab fa-instagram" },
-      { link = "https://twitter.com/TheRealLednerb", icon = "fab fa-twitter" },
-      { link = "https://github.com/Lednerb", icon = "fab fa-github" },
+      { link = "https://twitter.com/benjithedev", icon = "fab fa-twitter" },
+      { link = "https://github.com/benji2512", icon = "fab fa-github" },
     ]
 
     # credits line configuration
-    copyrightBy = "by Lednerb"
+    copyrightBy = "by Lednerb | Implementented by Ben Clarke"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2017"
     copyrightUrl = "https://github.com/Lednerb"
@@ -159,9 +160,9 @@ disqusShortname = ""
 
 # customize your available languages for your multi-lingual site
 # or delete the [Languages] blog to use the theme with only one supported language
-# [Languages]
-#   [Languages.en]
-#     weight = 1
+ [Languages]
+   [Languages.en]
+     weight = 1
 
 # don't change anything below
 [taxonomies]
