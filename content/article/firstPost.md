@@ -1,4 +1,13 @@
+---
+title: "First Post"
+date: 2022-01-25T00:29:32Z
 
+categories: []
+tags: ["first", "starting", "new"]
+toc: false
+draft: true
+author: "Benjiman Clarke"
+---
 # Why understanding computers is beneficial to everyone. 
 Firstly, let me explain what I mean by *understanding computers*. 
 I am a software engineer who looks at log files like this. 
